@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi everyone 👋
 
-<!--
-**vinith4/vinith4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm VinithKumar S, a passionate full-stack developer with a love for learning and exploring new technologies. I completed my engineering in Electronics and Communication stream and have a strong foundation in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Always eager to learn and explore new technologies to stay up-to-date with industry trends
+- 😄 Pronouns: He/Him
+- 🎓 Bachelor's Degree in Electronics and Communication Engineering
+
+## Skills
+
+- **Front-end:** HTML, CSS, JavaScript, React.js
+- **Back-end:** Spring Boot
+- **Other:** Agile methodologies, RESTful APIs, UI/UX design, Java, Python
+
+
+## Connect with Me
+
+- LinkedIn: [LinkedIn profile](www.linkedin.com/in/vinithkumar27)
+- Twitter: [@Twitter](https://twitter.com/Vinithkumar27?t=T4jXHuqzMUWdAPr627vmvw&s=09)
+
+Let's connect and collaborate on exciting projects together!
