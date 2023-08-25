@@ -19,6 +19,6 @@ I'm VinithKumar S, a passionate full-stack developer with a love for learning an
 
 - LinkedIn: [LinkedIn profile](www.linkedin.com/in/vinithkumar27)
 - Twitter: [@Twitter](https://twitter.com/Vinithkumar27?t=T4jXHuqzMUWdAPr627vmvw&s=09)
-- Portfolio: [@TPortfolio]((https://dev-vinithkumar.vercel.app/))
+- Portfolio: [@Portfolio](https://dev-vinithkumar.vercel.app/)
 
 Let's connect and collaborate on exciting projects together!
